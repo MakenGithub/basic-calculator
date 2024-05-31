@@ -1,6 +1,10 @@
 Calculadora funcional con operadores aritméticos básicos.
     (En desarrollo...)
 
+Se recomienda trabajar los archivos desde una copia del mismo en un directorio accesible
+tanto para el usuario como para la máquina, o descargar el archivo ".zip" y luego enviar los cambios
+a través del Upload. Esto evitará problemas al momento de crear el ejecutable.
+
 *Para ejecutar el archivo ".exe" en el terminal, se deberá ingresar el siguiente comando
     g++ -o calculadora programa.cpp operadores.cpp
 
